@@ -1,3 +1,3 @@
 # &lt;Tldraw /&gt;
 
-My [&lt;Tldraw /&gt;](https://tldraw.dev/quick-start) using [React + Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+My <a href="https://tldraw.dev/quick-start" target="_blank"><strong>&lt;Tldraw /&gt;</strong></a> using <a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project" target="_blank">React + Vite</a>.
