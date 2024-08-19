@@ -1,0 +1,33 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.auth-container input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+}
+
+@media (min-width: 600px) {
+  .auth-container input {
+    font-size: 18px;
+    padding: 12px;
+  }
+}
+
+@media (min-width: 992px) {
+  .auth-container input {
+    font-size: 20px;
+    padding: 14px;
+  }
+}
